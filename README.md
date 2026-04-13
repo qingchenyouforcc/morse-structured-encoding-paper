@@ -141,6 +141,8 @@ Because the full raw `gene_dataset` files are too large to distribute directly i
 - benchmark-construction scripts
 - a small example subset for workflow validation
 
+The file `manifests/real_cds_balanced_manifest.csv` records the per-CDS membership of the main paper's balanced benchmark.
+
 The main benchmark can be reconstructed by:
 
 1. obtaining the corresponding CDS FASTA records from NCBI using the accession list in `manifests/real_cds_balanced_manifest.csv`

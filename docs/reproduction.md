@@ -9,6 +9,7 @@ The main real-CDS benchmark is built from public NCBI CDS FASTA resources for th
 - `scerevisiae` (`Saccharomyces cerevisiae`)
 
 The balanced benchmark membership used in the paper is listed in `manifests/real_cds_balanced_manifest.csv`.
+That manifest records the per-CDS membership of the main paper's balanced benchmark.
 
 ## Reconstruction Steps
 
