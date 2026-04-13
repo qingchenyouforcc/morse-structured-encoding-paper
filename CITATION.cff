@@ -5,11 +5,12 @@ type: software
 version: "v1.0.1-paper-submission"
 date-released: 2026-04-13
 authors:
-  - family-names: "You"
-    given-names: "Qingchen"
+  - family-names: "Jiang"
+    given-names: "Zhenwei"
 repository-code: "https://github.com/qingchenyouforcc/morse-structured-encoding-paper"
 url: "https://github.com/qingchenyouforcc/morse-structured-encoding-paper/releases/tag/v1.0.1-paper-submission"
 doi: "10.5281/zenodo.19548067"
+license: "MIT"
 abstract: "Code, benchmark scripts, accession manifest, and preprocessing workflow for reversible structured recoding experiments on Morse sequences and transfer benchmarks on digit and codon data."
 keywords:
   - "reversible structured recoding"
