@@ -1,5 +1,9 @@
 # Morse Structured Encoding Experiments
 
+[![Release](https://img.shields.io/github/v/release/qingchenyouforcc/morse-structured-encoding-paper)](https://github.com/qingchenyouforcc/morse-structured-encoding-paper/releases/tag/v1.0.1-paper-submission)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19548067.svg)](https://doi.org/10.5281/zenodo.19548067)
+[![Citation](https://img.shields.io/badge/citation-CITATION.cff-blue)](./CITATION.cff)
+
 This repository contains the code, benchmark scripts, and lightweight sample datasets for the paper's experiments on reversible structured encoding of Morse sequences and transfer tasks on digit and codon token data.
 
 It implements:
