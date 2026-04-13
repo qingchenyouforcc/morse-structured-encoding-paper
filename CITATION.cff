@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software record below."
+title: "morse-structured-encoding-paper"
+type: software
+version: "v1.0-paper-submission"
+date-released: 2026-04-13
+authors:
+  - family-names: "You"
+    given-names: "Qingchen"
+repository-code: "https://github.com/qingchenyouforcc/morse-structured-encoding-paper"
+url: "https://github.com/qingchenyouforcc/morse-structured-encoding-paper/releases/tag/v1.0-paper-submission"
+abstract: "Code, benchmark scripts, accession manifest, and preprocessing workflow for reversible structured recoding experiments on Morse sequences and transfer benchmarks on digit and codon data."
+keywords:
+  - "reversible structured recoding"
+  - "Morse code"
+  - "benchmarking"
+  - "codon sequences"
+  - "lossless compression"
