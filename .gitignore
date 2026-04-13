@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated experiment outputs
+output/
+exp3_real_codon/outputs/
+exp3_real_codon/species_outputs/
+exp3_real_codon/_aggregate_main/
+exp3_real_codon/_aggregate_shortmid/
+exp3_real_codon/perf_*/
+exp3_real_codon/sampled_balanced_with_stop/
+exp3_real_codon_profiles_smoke/
+exp3_real_codon_smoke/
+exp3_real_codon_smoke_new_bins/
+
+# Large intermediate and raw data artifacts
+gene_dataset/
+exp3_real_codon/raw/
+exp3_real_codon/cleaned/
+exp3_real_codon/tokenized/
+exp3_real_codon/sampled_natural/
