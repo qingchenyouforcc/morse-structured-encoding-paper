@@ -132,7 +132,7 @@ This public repository includes the source code, experiment drivers, and small p
 
 ## Paper Submission Snapshot
 
-The paper-submission snapshot of this repository is fixed at release/tag `v1.0-paper-submission` so that the code and documentation referenced in the manuscript point to a stable version.
+The paper-submission snapshot of this repository is fixed at release/tag `v1.0.1-paper-submission` (DOI: `10.5281/zenodo.19548067`) so that the code and documentation referenced in the manuscript point to a stable version.
 
 ## Primary Morse Benchmark Inputs
 
