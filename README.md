@@ -130,6 +130,19 @@ The Exp3 benchmark script writes its outputs under `exp3_real_codon/outputs/`:
 
 This public repository includes the source code, experiment drivers, and small paper-aligned sample inputs needed to inspect and rerun the core pipeline. Large raw genome files, tokenized intermediates, and bulk generated outputs are not versioned in GitHub because they exceed practical repository size limits. Those artifacts can be regenerated with `benchmarks\prepare_exp3_real_codon_dataset.py` from the original downloaded sequence data placed under `gene_dataset/`.
 
+## Paper Submission Snapshot
+
+The paper-submission snapshot of this repository is fixed at release/tag `v1.0-paper-submission` so that the code and documentation referenced in the manuscript point to a stable version.
+
+## Primary Morse Benchmark Inputs
+
+The four primary Morse benchmark files referenced in the paper correspond to the following repository paths:
+
+- `standard_samples.txt` -> `datasets/base/standard_samples.txt`
+- `long_sentence_samples.txt` -> `datasets/long/long_sentence_samples.txt`
+- `paragraph_samples.txt` -> `datasets/paragraph/paragraph_samples.txt`
+- `long_text_samples.txt` -> `datasets/long_text/long_text_samples.txt`
+
 ## Reproducing The Real-CDS Benchmark
 
 The real-CDS benchmark used in the main paper is derived from public NCBI CDS FASTA resources for three species: `ecoli` (*E. coli*), `human` (*H. sapiens*), and `scerevisiae` (*S. cerevisiae*).
